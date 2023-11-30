@@ -1,0 +1,29 @@
+.header-container nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    position: fixed;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .power {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+
+  .logo-home-header {
+    color: #000000;
+    text-decoration: none;
+    justify-content: right;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+    color: rgb(221, 27, 108);
+  }

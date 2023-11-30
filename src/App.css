@@ -1,0 +1,16 @@
+/* src/App.css */
+.app{
+  font-family: 'Roboto', sans-serif;
+  background-image: url('https://i.imgur.com/aqrzvVm.jpg');
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  border: 20px solid black;
+}
+
+.all-contents{
+  width: 1040px;
+  border-left: 3px solid rgb(252, 245, 238);
+  border-right: 3px solid rgb(252, 245, 238);
+  margin: auto;
+}

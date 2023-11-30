@@ -1,0 +1,100 @@
+header {
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #fff;
+  height: auto;
+  text-align: center;
+  position: relative;
+}
+
+.head-background {
+  display: flex;
+  width: 1040px;
+  height: 300px;
+  justify-content: center;
+  background-color: rgb(98, 160, 160);
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-contents {
+  width: 1000px;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  height: 270px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.my-name {
+  display: flex;
+  margin-left: 20px; /* Change margin-left to 0px to align to the left */
+  margin-top: 100px;
+  margin-bottom: 15px;
+  color: black;
+  font-weight: 1000;
+  font-size: 40px;
+}
+
+.objective {
+  display: block; /* Keep display as 'inline-block' */
+  margin-left: 20px; /* Apply negative margin to offset the effect */
+  color: black;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+.my-info {
+  display: flex;
+  font-size: 20px;
+  color: black;
+  margin-left: 20px; /* Adjust margin-left to 0 to align to the left */
+  margin-top: 20px;
+}
+
+
+.my-info-span2, .my-info-span3, .my-info-span4{
+  margin-left: 30px
+}
+
+.profile{
+  position:static;
+  width: 1000px;
+  background-color: #ccc;
+  }
+
+.avatar-circle {
+  position: absolute;
+  transform: translate(-180%, -50%);
+  border-radius: 50%;
+  overflow: hidden;
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+}
+.avatar-circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.head-background img{
+  display: flex;
+  width: 1040px;
+  height: 300px;
+  justify-content: center;
+  background-color: rgb(98, 160, 160);
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  flex-direction: column;
+}
