@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sitouthay-profile/static/css/main.b74ddcbb.css",
+    "main.js": "/sitouthay-profile/static/js/main.d40c73e9.js",
+    "static/js/787.685acfbf.chunk.js": "/sitouthay-profile/static/js/787.685acfbf.chunk.js",
+    "index.html": "/sitouthay-profile/index.html",
+    "main.b74ddcbb.css.map": "/sitouthay-profile/static/css/main.b74ddcbb.css.map",
+    "main.d40c73e9.js.map": "/sitouthay-profile/static/js/main.d40c73e9.js.map",
+    "787.685acfbf.chunk.js.map": "/sitouthay-profile/static/js/787.685acfbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74ddcbb.css",
+    "static/js/main.d40c73e9.js"
+  ]
+}
